@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		92A92C0C24717E6000CF2966 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A92C0B24717E6000CF2966 /* AppDelegate.swift */; };
-		92A92C0E24717E6000CF2966 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A92C0D24717E6000CF2966 /* SceneDelegate.swift */; };
 		92A92C1024717E6000CF2966 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92A92C0F24717E6000CF2966 /* ViewController.swift */; };
 		92A92C1324717E6000CF2966 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92A92C1124717E6000CF2966 /* Main.storyboard */; };
 		92A92C1624717E6000CF2966 /* BankTest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 92A92C1424717E6000CF2966 /* BankTest.xcdatamodeld */; };
@@ -50,7 +49,6 @@
 /* Begin PBXFileReference section */
 		92A92C0824717E6000CF2966 /* BankTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BankTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92A92C0B24717E6000CF2966 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		92A92C0D24717E6000CF2966 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		92A92C0F24717E6000CF2966 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		92A92C1224717E6000CF2966 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		92A92C1524717E6000CF2966 /* BankTest.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = BankTest.xcdatamodel; sourceTree = "<group>"; };
@@ -127,7 +125,6 @@
 			children = (
 				92A92C3E2471805C00CF2966 /* Scenes */,
 				92A92C0B24717E6000CF2966 /* AppDelegate.swift */,
-				92A92C0D24717E6000CF2966 /* SceneDelegate.swift */,
 				92A92C0F24717E6000CF2966 /* ViewController.swift */,
 				92A92C1124717E6000CF2966 /* Main.storyboard */,
 				92A92C1724717E6400CF2966 /* Assets.xcassets */,
@@ -328,7 +325,6 @@
 				92A92C58247180EE00CF2966 /* StatementsViewController.swift in Sources */,
 				92A92C1624717E6000CF2966 /* BankTest.xcdatamodeld in Sources */,
 				92A92C0C24717E6000CF2966 /* AppDelegate.swift in Sources */,
-				92A92C0E24717E6000CF2966 /* SceneDelegate.swift in Sources */,
 				92A92C54247180EE00CF2966 /* StatementsPresenter.swift in Sources */,
 				92A92C59247180EE00CF2966 /* StatementsInteractor.swift in Sources */,
 				92A92C46247180A800CF2966 /* LoginPresenter.swift in Sources */,
